@@ -1,0 +1,7 @@
+*/
+Brave
+Chrome
+Firefox
+Opera
+Edge
+/*
